@@ -9,7 +9,7 @@
 > 1. File download.
 > 2. Install python3.
 > 3. Go to directory adress.
-> 4. Typing " python3 gui.py"
+> 4. Typing " python3 client.py"
 
 ## English Menual
 
